@@ -6,6 +6,8 @@ For now, I'm studying the web and school subjects like geography, history, portu
 
 I learned English practically alone, watching videos and reading documents, I still need to practice more, especially speaking, but there are other things to focus on now, I can improve my skills on that later.
 
+I also like music, [here](https://open.spotify.com/playlist/7yLRwaK1v9mT6yo5yhrHIa?si=v6m8psTfQMa5Uowcr6mbhA) is my playlist.
+
 That's me, if you want to make contact, there are some options:
 
 - Discord: Rafael-#2874
