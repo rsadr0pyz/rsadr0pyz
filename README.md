@@ -12,5 +12,5 @@ That's me, if you want to make contact, there are some options:
 
 - Discord: Rafael-#2874
 
-Well... there aren't so many options. But I'd be pretty happy to talk with someone, i'm bored of talking to my [Wilson](https://conteudo.imguol.com.br/c/entretenimento/14/2018/05/08/bola-de-volei-wilson-no-filme-naufrago-2000-1525829207892_v2_1370x1000.jpg)-like porcelain skull.
+Well... there aren't so many options, but I'll add more later.
 
