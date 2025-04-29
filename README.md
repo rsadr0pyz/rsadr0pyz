@@ -22,8 +22,6 @@ What I know:
 you may check the classes I took graphically, [here](https://drive.google.com/file/d/1TA8ZmzK8Y2KaSyATYYQK3tRy-btoLLwd/view), I am currently on semester 5.
 [here](https://drive.google.com/file/d/1LE0NyNKazTgPKrl5KxRgW117ckUPPa0h/view) you can have a brief description of each class.
 
-If you want my grades, I may provide that information privatly, contact me.
-
 So this is a brief resume of what I know. It is pretty hard to put everything in words, I know what I know, and I am still studying and practicing.
 I am also eger to study more subjects.
 
