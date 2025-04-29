@@ -4,20 +4,19 @@ Hi, I am a computer engineering undergrad at [Universidade Federal do Espírito 
 currently in semester 5. I am interested in learning opportunities, working in projects (mostly hardware, embeding, graphics)
 
 I have knowledge about web development, both frontend and backend, but it is not my passion, nor I wish to work with it. I am more interested in circuitry,
-microcontrolers, hardware related subjects, and math, really like math. Right now my focuses is on computer architectury, operational systems inner workings, etc.
+microcontrolers, hardware related subjects, and math, I really like math. Right now my focuses is on computer architectury, operational systems inner workings, among other things.
 
-Right now, I am working with esp microcontroller, embeding a deep learning model into it as an attempt to create a skin lesion evaluation device for the [current
+I am currently working with esp microcontroller, embeding a deep learning model into it as an attempt to create a skin lesion evaluation device for the [current
 lab](https://life.inf.ufes.br) I am working on. Things have been flowing well, if you want to know. 
 In the mean time, I am studying to get a deep understanding in transformers (the math ones, suchs as laplace transform, fourier transform, etc), eletromagnetism,
-and computer inner workings - just finished the computer architecture course, loved it. I also want to study graphics computing.
+and as I said before, computer inner workings.
 
 What I know: 
 
 - Core math: Calculus, statistics, complex numbers, trigonometry, etc  (I won't list them all here)
 - Classical physics: mechanics, thermodynamics, all that stuff. I am not an expert, but I
   like physics, and study about it whenever I can. Hoping to study about quantum and relativity soon.
-- Circuit analisys, still practicing and getting a deeper understanding. But I can already develop simple circuits
-  and solve some problems.
+- Circuit analisys, still practicing and getting a deeper understanding.
 - Programming, of course. I won't get in details, but C, C++, java, js, ts, python, etc. A  l o t  of frameworks.
 - I just learned about MIPS architecture, and I am planning on studying more modern ones.
 
