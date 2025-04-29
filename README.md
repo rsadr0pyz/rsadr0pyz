@@ -1,5 +1,3 @@
-I like being direct to the point, so don't expect a bunch of cute icons.
-
 Hi, I am a computer engineering undergrad at [Universidade Federal do Espírito Santo](https://en.wikipedia.org/wiki/Federal_University_of_Esp%C3%ADrito_Santo),
 currently in semester 5. I am interested in learning opportunities, working in projects (mostly hardware, embeding, graphics)
 
