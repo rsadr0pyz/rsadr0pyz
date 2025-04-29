@@ -18,14 +18,14 @@ What I know:
 - Programming, of course. I won't get in details, but C, C++, java, js, ts, python, etc. Also, a  l o t  of frameworks.
 - I just learned about MIPS architecture, and I am planning on studying more modern ones.
 
-[Here](https://informatica.ufes.br/sites/informatica.ufes.br/files/field/anexo/ppc-engcomp-2022-rev-fev-2025.pdf) is information of my course (it is in portuguese) 
+[Here](https://informatica.ufes.br/sites/informatica.ufes.br/files/field/anexo/ppc-engcomp-2022-rev-fev-2025.pdf) is information about my course (it is in portuguese) 
 you may check the classes I took graphically, [here](https://drive.google.com/file/d/1TA8ZmzK8Y2KaSyATYYQK3tRy-btoLLwd/view), I am currently on semester 5.
 [here](https://drive.google.com/file/d/1LE0NyNKazTgPKrl5KxRgW117ckUPPa0h/view) you can have a brief description of each class.
 
 If you want my grades, I may provide that information privatly, contact me.
 
-So this is a brief resume of what I know. It is pretty hard to put everything in words, I know what I know, I am still studying and practicing.
-I am also eger to study more subjects, if you have an idea you want to share, feel free.
+So this is a brief resume of what I know. It is pretty hard to put everything in words, I know what I know, and I am still studying and practicing.
+I am also eger to study more subjects.
 
-Contact me by discord: deuzivaldo
-or email: rafaelsaltoe@gmail.com
+discord: deuzivaldo
+email: rafaelsaltoe@gmail.com
