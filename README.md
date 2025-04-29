@@ -15,7 +15,7 @@ What I know:
 - Classical physics: mechanics, thermodynamics, all that stuff. I am not an expert, but I
   like physics, and study about it whenever I can. Hoping to study about quantum and relativity soon.
 - Circuit analisys, still practicing and getting a deeper understanding.
-- Programming, of course. I won't get in details, but C, C++, java, js, ts, python, etc. A  l o t  of frameworks.
+- Programming, of course. I won't get in details, but C, C++, java, js, ts, python, etc. Also, a  l o t  of frameworks.
 - I just learned about MIPS architecture, and I am planning on studying more modern ones.
 
 [Here](https://informatica.ufes.br/sites/informatica.ufes.br/files/field/anexo/ppc-engcomp-2022-rev-fev-2025.pdf) is information of my course (it is in portuguese) 
